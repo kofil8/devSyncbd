@@ -6,7 +6,7 @@
 
   devSyncbd is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
+  <a href="https://devsyncbd.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
